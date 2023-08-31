@@ -16,7 +16,8 @@
 
   The best accuracy is achieved from Random Forest - 96.78%
 
-The PDF- capstone-1 has Intro, Explanation and Flow of the project.
-The PDF- capstone-2 shares the Results, Code, and References of the project.
+The capstone-1 has Intro, Explanation, and Flow of the project.
 
-The PDF (capston-1 and capstone-2) uploaded has the entire project details, code, and references. You can make use of that for guidance or while building a similar application. Thanks!
+The capstone-2 shares the Results, Code, and References of the project.
+
+The PDF (capston-1 and capstone-2) uploaded has the entire project details. You can make use of that for guidance or while building a similar application. Thanks!
