@@ -6,15 +6,7 @@
 
 - The pandemic has made it more tough to find a job and earn a living. Thus, the application gives users an easy access to sell all their services and at the same time clients can accept, post and delete their requests according to availability of services and their respective needs. With that the job recommendation system deficiates the time consumed by the customers by giving them proper postings and information lists.
 
-- The application looks like this in the end:
-
-  <img src="https://github.com/Rasmika-b/The-Freebird-App/assets/60094457/21f7849d-3da5-4196-aab6-c34689f9ac94" width="650" />
-
-- The accuracy of the job recommendation system:
-
-  <img src="https://github.com/Rasmika-b/The-Freebird-App/assets/60094457/3649003d-33e8-4f60-946b-76c96d497d78" width="500" />
-
-  The best accuracy is achieved from Random Forest - 96.78%
+- The best accuracy is achieved from Random Forest - 96.78% for Skill Level prediction and Logistic Regression - 95.67% for Job Recommendation System.
 
 The capstone-1 has Intro, Explanation, and Flow of the project.
 
